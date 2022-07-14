@@ -2,6 +2,8 @@
 eSports Tournament Manager
 This software is designed to create fixtures for Tournament events in the gaming community
 
+This project requires an extraction to fucntion properly with gui images.
+
 TOS:
 You are allowed to use this program for any needs necessary.
 Redributing, editing*, or claiming this project as your own is prohibited.
