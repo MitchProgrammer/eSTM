@@ -1,5 +1,6 @@
 # eSTM
 eSports Tournament Manager
+
 This software is designed to create fixtures for Tournament events in the gaming community
 
 This project requires an extraction to function properly with gui images.
